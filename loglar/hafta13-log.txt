@@ -1,0 +1,3 @@
+recursive ile fonksiyon yazıldı.  
+Tek sayıların toplamı bulundu ve ekrana yazdırıldı.  
+Kod sorunsuz çalıştı.
