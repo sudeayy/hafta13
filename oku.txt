@@ -1,0 +1,3 @@
+Bu hafta recursive fonksiyonunu kullanarak 1 ile 99 arasındaki tek sayıların toplamını hesaplayan bir program yazdık.
+Fonksiyon, sayıları geriye doğru sayarak tek olanları ekrana yazdırdı ve toplamını hesapladı.
+Böylece, koşullu ifadeler ve recursive yapısını öğrenip, fonksiyonların kendi kendini çağırarak nasıl çalıştığını gördük.
